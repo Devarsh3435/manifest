@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: devarsh21/myapp:14
+          image: devarsh21/myapp:15
 
           ports:
             - containerPort: 80
